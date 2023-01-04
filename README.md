@@ -4,6 +4,6 @@ A game of Tetris made with the “graphics.py” module in python.  Functions li
 
 <center>
 <div>
-<img src="Tetris_screenshot1.png" width="500"/>
+<img src="Tetris_screenshot.png" width="500"/>
 </div>
 </center>
